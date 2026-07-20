@@ -46,4 +46,6 @@ scikit-learn
 ## 👨‍💻 Author
 **Vikas Bharti Pandey**
 
-GitHub: https://github.com/vikasbhartipandey
+GitHub: https://github.com/vikasbhartipandey 
+
+google colab link :- https://colab.research.google.com/drive/1GC_Hpcj0ouWvXP4wBIic1PDCe-n3aPZu?usp=sharing
